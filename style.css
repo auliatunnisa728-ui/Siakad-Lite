@@ -1,0 +1,8 @@
+/*Untuk tampilan body halaman login*/
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    border-radius: 12px; /*Mengunakan Sagoe UI font nya lebih rapi*/
+}
